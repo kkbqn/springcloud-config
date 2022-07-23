@@ -1,3 +1,4 @@
 # springcloud-config
-微服务配置测试
+springcloud-config的配置中心
 
+springcloud-config的配置中心
